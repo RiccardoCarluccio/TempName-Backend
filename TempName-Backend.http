@@ -1,0 +1,6 @@
+@TempName_Backend_HostAddress = http://localhost:5034
+
+GET {{TempName_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
